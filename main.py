@@ -852,4 +852,4 @@ def start_bot():
 
 
 
-start_bot()
+
